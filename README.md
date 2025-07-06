@@ -1,4 +1,4 @@
-# 🌐 Intro to HTML, CSS & JavaScript
+#  Intro to HTML, CSS & JavaScript
 
 This is a beginner-friendly website built with **HTML** and **CSS**, designed to introduce the core web development technologies: **HTML**, **CSS**, and **JavaScript**. The site provides clear definitions and explanations of each, making it perfect for anyone just starting out in web development.
 
