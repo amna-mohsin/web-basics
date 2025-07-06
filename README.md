@@ -21,12 +21,6 @@ This is a beginner-friendly website built with **HTML** and **CSS**, designed to
 1. Clone or download the repository.
 2. Open `index.html` in your browser to view the site.
 
-##  Project Structure
-web-basics/
-├── index.html
-└── style.css
-
-
 ##  Live Demo
 
 🔗 [View on Netlify](https://web-basics.netlify.app/)
